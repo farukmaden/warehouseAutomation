@@ -1,0 +1,58 @@
+﻿@model IEnumerable<DepoOtomasyonu.Model.Models.CardModel>
+@{
+    ViewData["Title"] = "ListProduct";
+}
+<div class="border p-4 bg-white">
+    <div class="row">
+        <div class="col-md-6 form-group">
+            <h2 class="text-info">Sepet</h2>
+        </div>
+        <div class="col-md-6 form-group">
+            <button style="margin-left:340px" onclick="location.href='@Url.Action("CategoryListIndex", "Home")'" class="btn btn-primary text-white">Ana Menü</button>
+        </div>
+    </div>
+    <br />
+    <div>
+        @if (Model.Count() > 0)
+        {
+            <table class="table table-striped border">
+                <tr class="table-secondary">
+                    <th class="text-center">Ürün Resmi</th>
+                    <th class="text-center">Ürün Kodu</th>
+                    <th class="text-center">Kategori</th>
+                    <th class="text-center">Ürün fiyatı</th>
+                    <th class="text-center"></th>
+                    <th class="text-center"></th>
+                </tr>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td class="text-center">
+                            <img src="/images/@item.ProductModel.ProductPicture" width="100px" height="100px" />
+                        </td>
+                        <td class="text-center">
+                            @item.ProductModel.ProductCode
+                        </td>
+                        <td class="text-center">
+                            @item.ProductModel.CategoryModel.CategoryName
+                        </td>
+                        <td class="text-center">
+                            @item.ProductModel.ProductPrice
+                        </td>
+                        <td class="text-center">
+                            <a class="btn btn-primary text-white" asp-action="AddToOrders" asp-route-Id="@item.ProductId" style="background-color:#235586">Siparişe Ekle</a>
+                        </td>
+                        <td class="text-center">
+                            <a class="btn btn-danger text-white" asp-action="DeleteToCard" asp-route-Id="@item.CardId">Sil</a>
+                        </td>
+                    </tr>
+                }
+            </table>
+        }
+        else
+        {
+            <p>Listelenecek veri yok ...</p>
+        }
+    </div>
+</div>
+

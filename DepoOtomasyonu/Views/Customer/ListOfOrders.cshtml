@@ -1,0 +1,54 @@
+﻿@model IEnumerable<DepoOtomasyonu.Model.Models.OrdersModel>
+@{
+    ViewData["Title"] = "ListOfOrders";
+}
+<div class="border p-4 bg-white">
+    <div class="row">
+        <div class="col-md-6 form-group">
+            <h2 class="text-info">Siparişler</h2>
+        </div>
+       <div class="col-md-6 form-group">
+            <button style="margin-left:340px" onclick="location.href='@Url.Action("CategoryListIndex", "Home")'" class="btn btn-primary text-white">Ana Menü</button>
+        </div>
+    </div>
+    <br />
+    <div>
+        @if (Model.Count() > 0)
+        {
+            <table class="table table-striped border">
+                <tr class="table-secondary">
+                    <th class="text-center">Ürün Resmi</th>
+                    <th class="text-center">Ürün Kodu</th>
+                    <th class="text-center">Kategori</th>
+                    <th class="text-center">Ürün Fiyatı</th>
+                    <th class="text-center">Sipariş Tarihi</th>
+                </tr>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td class="text-center">
+                            <img src="/images/@item.ProductModel.ProductPicture" width="100px" height="100px"/>
+                        </td>
+                        <td class="text-center">
+                            @item.ProductModel.ProductCode
+                        </td>
+                        <td class="text-center">
+                            @item.ProductModel.CategoryModel.CategoryName
+                        </td>
+                        <td class="text-center">
+                            @item.ProductModel.ProductPrice
+                        </td>
+                        <td class="text-center">
+                            @item.OrderDate.ToString("dd:MMMM:yyyy")
+                        </td>
+                    </tr>
+                }
+            </table>
+        }
+        else
+        {
+            <p>Listelenecek veri yok ...</p>
+        }
+    </div>
+</div>
+

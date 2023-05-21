@@ -1,0 +1,60 @@
+﻿@model DepoOtomasyonu.Model.Models.CustomerModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form method="post">
+    <section class="text-center text-lg-start">
+        <style>
+            .cascading-right {
+                margin-right: -50px;
+            }
+
+            .rounded-4 {
+                margin-bottom: 70px;
+                height: 490px;
+            }
+
+        </style>
+
+        <!-- Jumbotron -->
+        <div class="container py-4">
+            <div class="row g-0 align-items-center">
+                <div class="col-lg-6 mb-5 mb-lg-0">
+                    <div class="card cascading-right" style="
+            background: hsla(0, 0%, 100%, 0.55);
+            backdrop-filter: blur(30px);
+            ">
+                        <div class="card-body p-5 shadow-5 text-center">
+                            <h2 class="fw-bold mb-5">KAYIT</h2>
+                            <form>
+                                <!-- Email input -->
+                                <div class="form-outline mb-4">
+                                    <label asp-for="CustomerName" class="form-label" for="form3Example3">Name</label>
+                                    <input asp-for="CustomerName" type="text" id="form3Example3" class="form-control" />
+                                    <span asp-validation-for="CustomerName" class="text-danger"></span>
+                                </div>
+                                <!-- Password input -->
+                                <div class="form-outline mb-4">
+                                    <label asp-for="CustomerPassword" class="form-label" for="form3Example4">Password</label>
+                                    <input asp-for="CustomerPassword" type="password" id="form3Example4" class="form-control" />
+                                    <span asp-validation-for="CustomerPassword" class="text-danger"></span>
+                                </div>
+                                <!-- Submit button -->
+                                <button type="submit" class="btn btn-primary btn-block mb-4" asp-controller="Register" asp-action="Register" style="background-color:#235586">
+                                    <i class="fa fa-user-plus"></i> Kayıt Ol
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-6 mb-5 mb-lg-0">
+                    <img src="https://img.freepik.com/free-icon/warehouse_318-196718.jpg" class="rounded-4 shadow-4"
+                         alt="" />
+                </div>
+            </div>
+        </div>
+        <!-- Jumbotron -->
+    </section>
+</form>

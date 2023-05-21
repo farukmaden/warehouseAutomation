@@ -1,0 +1,59 @@
+﻿@model IEnumerable<DepoOtomasyonu.Model.Models.ProductModel>
+@{
+    ViewData["Title"] = "ListProduct";
+}
+<div class="border p-4 bg-white">
+    <div class="row">
+        <div class="col-md-6 form-group">
+            <h2 class="text-info">Ürünler</h2>
+        </div>
+        <div class="col-md-6 form-group">
+            <button style="margin-left:340px" onclick="location.href='@Url.Action("CategoryListIndex", "Home")'" class="btn btn-primary text-white">Ana Menü</button>
+        </div>
+    </div>
+    <br />
+    <div>
+        @if (Model.Count() > 0)
+        {
+            <table class="table table-striped border">
+                <tr class="table-secondary">
+                    <th class="text-center">Ürün Resmi</th>
+                    <th class="text-center">Ürün Kodu</th>
+                    <th class="text-center">Kategori</th>
+                    <th class="text-center">Ürün fiyatı</th>
+                    <th class="text-center">Ürün adeti</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td class="text-center">
+                            <img src="/images/@item.ProductPicture" width="100px" height="100px" />
+                        </td>
+                        <td class="text-center">
+                            @item.ProductCode
+                        </td>
+                        <td class="text-center">
+                            @item.CategoryModel.CategoryName
+                        </td>
+                        <td class="text-center">
+                            @item.ProductPrice
+                        </td>
+                        <td class="text-center">
+                            @item.ProductCount
+                        </td>
+                        <td class="text-center">
+                            <a class="btn btn-primary text-white" asp-action="AddToCard" asp-route-Id="@item.ProductId" style="background-color:#235586">Sepete Ekle</a>
+                        </td>
+                    </tr>
+                }
+            </table>
+        }
+        else
+        {
+            <p>Listelenecek veri yok ...</p>
+        }
+    </div>
+</div>
+

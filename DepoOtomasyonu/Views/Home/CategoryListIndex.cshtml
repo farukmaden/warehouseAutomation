@@ -1,0 +1,13 @@
+﻿@model IEnumerable<DepoOtomasyonu.Model.Models.CategoryModel>
+@{
+    ViewData["Title"] = "CategoryListIndex";
+}
+@foreach (var item in Model)
+{
+    <form>
+        <div class="form-group">
+            <input type="submit" value="@item.CategoryName" class="btn btn-primary btn-lg btn-block" asp-controller="Customer" asp-action="ListProduct" asp-route-Id="@item.CategoryId" style="background-color:#235586" />
+        </div>
+    </form>
+}
+
