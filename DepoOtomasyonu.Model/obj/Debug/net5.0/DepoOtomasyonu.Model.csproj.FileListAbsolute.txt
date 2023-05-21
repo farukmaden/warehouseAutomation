@@ -1,0 +1,30 @@
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.Model\bin\Debug\net5.0\DepoOtomasyonu.Model.deps.json
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.Model\bin\Debug\net5.0\DepoOtomasyonu.Model.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.Model\bin\Debug\net5.0\DepoOtomasyonu.Model.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.Model\bin\Debug\net5.0\DepoOtomasyonu.Model.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.Model\bin\Debug\net5.0\DepoOtomasyonu.Model.pdb
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.Model\obj\Debug\net5.0\DepoOtomasyonu.Model.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.Model\obj\Debug\net5.0\DepoOtomasyonu.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.Model\obj\Debug\net5.0\DepoOtomasyonu.Model.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.Model\obj\Debug\net5.0\DepoOtomasyonu.Model.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.Model\obj\Debug\net5.0\DepoOtomasyonu.Model.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.Model\obj\Debug\net5.0\DepoOtomasyonu.Model.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.Model\obj\Debug\net5.0\refint\DepoOtomasyonu.Model.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.Model\obj\Debug\net5.0\DepoOtomasyonu.Model.pdb
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.Model\obj\Debug\net5.0\DepoOtomasyonu.Model.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.Model\obj\Debug\net5.0\ref\DepoOtomasyonu.Model.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.Model\bin\Debug\net5.0\DepoOtomasyonu.Model.deps.json
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.Model\bin\Debug\net5.0\DepoOtomasyonu.Model.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.Model\bin\Debug\net5.0\DepoOtomasyonu.Model.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.Model\bin\Debug\net5.0\DepoOtomasyonu.Model.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.Model\bin\Debug\net5.0\DepoOtomasyonu.Model.pdb
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.Model\obj\Debug\net5.0\DepoOtomasyonu.Model.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.Model\obj\Debug\net5.0\DepoOtomasyonu.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.Model\obj\Debug\net5.0\DepoOtomasyonu.Model.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.Model\obj\Debug\net5.0\DepoOtomasyonu.Model.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.Model\obj\Debug\net5.0\DepoOtomasyonu.Model.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.Model\obj\Debug\net5.0\DepoOtomasyonu.Model.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.Model\obj\Debug\net5.0\refint\DepoOtomasyonu.Model.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.Model\obj\Debug\net5.0\DepoOtomasyonu.Model.pdb
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.Model\obj\Debug\net5.0\DepoOtomasyonu.Model.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.Model\obj\Debug\net5.0\ref\DepoOtomasyonu.Model.dll

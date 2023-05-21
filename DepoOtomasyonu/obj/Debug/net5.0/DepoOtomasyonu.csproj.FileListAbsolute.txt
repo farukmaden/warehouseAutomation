@@ -1,0 +1,313 @@
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\appsettings.json
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\DepoOtomasyonu.exe
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\DepoOtomasyonu.deps.json
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\DepoOtomasyonu.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\DepoOtomasyonu.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\DepoOtomasyonu.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\DepoOtomasyonu.pdb
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\DepoOtomasyonu.Views.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\DepoOtomasyonu.Views.pdb
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\scopedcss\bundle\DepoOtomasyonu.styles.css
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\staticwebassets\DepoOtomasyonu.StaticWebAssets.Manifest.cache
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\staticwebassets\DepoOtomasyonu.StaticWebAssets.Pack.cache
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\staticwebassets\msbuild.DepoOtomasyonu.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\staticwebassets\msbuild.build.DepoOtomasyonu.props
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.DepoOtomasyonu.props
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.DepoOtomasyonu.props
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.TagHelpers.input.cache
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.TagHelpers.output.cache
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.RazorCoreGenerate.cache
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.RazorTargetAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.Views.pdb
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\refint\DepoOtomasyonu.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.pdb
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\ref\DepoOtomasyonu.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\DepoOtomasyonu.DataAccess.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\DepoOtomasyonu.Model.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\DepoOtomasyonu.DataAccess.pdb
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\DepoOtomasyonu.Model.pdb
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Register\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Admin\CategoryIndex.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Admin\CategoryInsertOrUpdate.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Admin\AdminDashboard.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Admin\ProductIndex.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Admin\ProductInsertOrUpdate.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Home\CategoryListIndex.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Customer\ListProduct.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Customer\ListOfCard.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Customer\ListOfOrders.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\appsettings.json
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\DepoOtomasyonu.exe
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\DepoOtomasyonu.deps.json
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\DepoOtomasyonu.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\DepoOtomasyonu.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\DepoOtomasyonu.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\DepoOtomasyonu.pdb
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\DepoOtomasyonu.Views.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\DepoOtomasyonu.Views.pdb
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\DepoOtomasyonu.DataAccess.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\DepoOtomasyonu.Model.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\DepoOtomasyonu.DataAccess.pdb
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\bin\Debug\net5.0\DepoOtomasyonu.Model.pdb
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\scopedcss\bundle\DepoOtomasyonu.styles.css
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\staticwebassets\DepoOtomasyonu.StaticWebAssets.Manifest.cache
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\staticwebassets\DepoOtomasyonu.StaticWebAssets.Pack.cache
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\staticwebassets\msbuild.DepoOtomasyonu.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\staticwebassets\msbuild.build.DepoOtomasyonu.props
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.DepoOtomasyonu.props
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.DepoOtomasyonu.props
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.TagHelpers.input.cache
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.TagHelpers.output.cache
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.RazorCoreGenerate.cache
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Admin\AdminDashboard.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Admin\CategoryIndex.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Admin\CategoryInsertOrUpdate.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Admin\ProductIndex.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Admin\ProductInsertOrUpdate.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Customer\ListOfCard.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Customer\ListOfOrders.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Customer\ListProduct.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Home\CategoryListIndex.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Register\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.RazorTargetAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.Views.pdb
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\refint\DepoOtomasyonu.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.pdb
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\DepoOtomasyonu.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\ref\DepoOtomasyonu.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Home\LoginErrorPage.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Register\RegisterErrorPage.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu\obj\Debug\net5.0\Razor\Views\Admin\AdminLoginErrorPage.cshtml.g.cs

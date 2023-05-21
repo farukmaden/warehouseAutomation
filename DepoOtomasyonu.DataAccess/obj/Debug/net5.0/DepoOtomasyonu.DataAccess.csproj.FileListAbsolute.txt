@@ -1,0 +1,36 @@
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\bin\Debug\net5.0\DepoOtomasyonu.DataAccess.deps.json
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\bin\Debug\net5.0\DepoOtomasyonu.DataAccess.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\bin\Debug\net5.0\DepoOtomasyonu.DataAccess.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\bin\Debug\net5.0\DepoOtomasyonu.DataAccess.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\bin\Debug\net5.0\DepoOtomasyonu.DataAccess.pdb
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\bin\Debug\net5.0\DepoOtomasyonu.Model.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\bin\Debug\net5.0\DepoOtomasyonu.Model.pdb
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\obj\Debug\net5.0\DepoOtomasyonu.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\obj\Debug\net5.0\DepoOtomasyonu.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\obj\Debug\net5.0\DepoOtomasyonu.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\obj\Debug\net5.0\DepoOtomasyonu.DataAccess.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\obj\Debug\net5.0\DepoOtomasyonu.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\obj\Debug\net5.0\DepoOtomasyonu.DataAccess.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\obj\Debug\net5.0\DepoOtomasyonu.DataAccess.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\obj\Debug\net5.0\refint\DepoOtomasyonu.DataAccess.dll
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\obj\Debug\net5.0\DepoOtomasyonu.DataAccess.pdb
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\obj\Debug\net5.0\DepoOtomasyonu.DataAccess.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Bitirme ödevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\obj\Debug\net5.0\ref\DepoOtomasyonu.DataAccess.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\bin\Debug\net5.0\DepoOtomasyonu.DataAccess.deps.json
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\bin\Debug\net5.0\DepoOtomasyonu.DataAccess.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\bin\Debug\net5.0\DepoOtomasyonu.DataAccess.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\bin\Debug\net5.0\DepoOtomasyonu.DataAccess.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\bin\Debug\net5.0\DepoOtomasyonu.DataAccess.pdb
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\bin\Debug\net5.0\DepoOtomasyonu.Model.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\bin\Debug\net5.0\DepoOtomasyonu.Model.pdb
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\obj\Debug\net5.0\DepoOtomasyonu.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\obj\Debug\net5.0\DepoOtomasyonu.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\obj\Debug\net5.0\DepoOtomasyonu.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\obj\Debug\net5.0\DepoOtomasyonu.DataAccess.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\obj\Debug\net5.0\DepoOtomasyonu.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\obj\Debug\net5.0\DepoOtomasyonu.DataAccess.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\obj\Debug\net5.0\DepoOtomasyonu.DataAccess.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\obj\Debug\net5.0\refint\DepoOtomasyonu.DataAccess.dll
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\obj\Debug\net5.0\DepoOtomasyonu.DataAccess.pdb
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\obj\Debug\net5.0\DepoOtomasyonu.DataAccess.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Bitirmeodevi\DepoOtomasyonu\DepoOtomasyonu.DataAccess\obj\Debug\net5.0\ref\DepoOtomasyonu.DataAccess.dll
